@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: 18181B;
+  background-color: #18181B;
   width: 100%;
   height: 100vh;
   display: flex;
@@ -23,4 +23,19 @@ body {
 .container-input {
   max-width: 290px;
   margin: 14px 0;
+}
+
+.container-input span {
+  color: #FFF;
+  font-size: 22px;
+}
+
+.slider {
+  -webkit-appearance: none;
+  width: 100%;
+  border-radius: 5px;
+  background: #DFDFDF;
+  height: 18px;
+  outline: none;
+  margin-top: 8px;
 }

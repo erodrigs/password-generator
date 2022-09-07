@@ -19,3 +19,8 @@ body {
   max-width: 450px;
   margin-bottom: 25px;
 }
+
+.container-input {
+  max-width: 290px;
+  margin: 14px 0;
+}
